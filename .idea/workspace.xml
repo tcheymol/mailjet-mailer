@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d05861bb-b0a0-4fe4-994d-2bc42298302e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable path="composer" />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-client" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-client-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mailer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1atqcceX5w2KA6eFK1t8d7E7Ggu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="PHPUnit.MailjetTransportFactoryTest">
+    <configuration name="MailjetTransportFactoryTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="Symfony\Component\Mailer\Bridge\Sendgrid\Tests\Transport\MailjetTransportFactoryTest" configuration_file="$PROJECT_DIR$/phpunit.xml.dist" file="$PROJECT_DIR$/Tests/Transport/MailjetTransportFactoryTest.php" scope="Class" />
+      <method v="2" />
+    </configuration>
+    <configuration name="phpunit.xml.dist" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner configuration_file="$PROJECT_DIR$/phpunit.xml.dist" scope="XML" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="PHPUnit.phpunit.xml.dist" />
+      <item itemvalue="PHPUnit.MailjetTransportFactoryTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.MailjetTransportFactoryTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d05861bb-b0a0-4fe4-994d-2bc42298302e" name="Default Changelist" comment="" />
+      <created>1587565318067</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587565318067</updated>
+      <workItem from="1587565319734" duration="2613000" />
+      <workItem from="1587628570292" duration="240000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="127" key="#Composer" timestamp="1587565329344">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="320" y="127" key="#Composer/0.23.1440.877@0.23.1440.877" timestamp="1587565329344" />
+    <state x="368" y="89" width="827" height="745" key="#MailjetTransportFactoryTest" timestamp="1587566655294">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="368" y="89" width="827" height="745" key="#MailjetTransportFactoryTest/0.23.1440.877@0.23.1440.877" timestamp="1587566655294" />
+    <state x="395" y="47" key="#PHP" timestamp="1587565843318">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="395" y="47" key="#PHP/0.23.1440.877@0.23.1440.877" timestamp="1587565843318" />
+    <state x="184" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587566733753">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="184" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1587566733753" />
+    <state x="481" y="381" key="ComposerInitDialogKey" timestamp="1587565439326">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="481" y="381" key="ComposerInitDialogKey/0.23.1440.877@0.23.1440.877" timestamp="1587565439326" />
+    <state width="1398" height="431" key="GridCell.Tab.0.bottom" timestamp="1587571151887">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="431" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1587571151887" />
+    <state width="1398" height="431" key="GridCell.Tab.0.center" timestamp="1587571151886">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="431" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1587571151886" />
+    <state width="1398" height="431" key="GridCell.Tab.0.left" timestamp="1587571151885">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="431" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1587571151885" />
+    <state width="1398" height="431" key="GridCell.Tab.0.right" timestamp="1587571151886">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="431" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1587571151886" />
+    <state x="370" y="218" width="699" height="486" key="find.popup" timestamp="1587565829300">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="370" y="218" width="699" height="486" key="find.popup/0.23.1440.877@0.23.1440.877" timestamp="1587565829300" />
+  </component>
+</project>
